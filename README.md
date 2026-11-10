@@ -40,13 +40,6 @@ I build backend systems in **.NET** and frontends in **Angular**, with a focus o
 
 Also: a SOLID principles series ([OCP](https://github.com/mohamedshabban/OpenClosedPrincipleInCSharp), [LSP](https://github.com/mohamedshabban/LiskovSubstitutionPrincipleInCSharp), [ISP](https://github.com/mohamedshabban/InterfaceSegregationPrincipleInCSharp), [DIP](https://github.com/mohamedshabban/DependencyInversionPrincipleInCSharp)) and design patterns ([Strategy](https://github.com/mohamedshabban/StrategyPattern), [Command](https://github.com/mohamedshabban/Command_Pattern)).
 
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedshabban&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshabban&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ### 🤝 Open to
 
 Collaboration on .NET, distributed systems and architecture projects. Feel free to open an issue on any repo or reach out.
